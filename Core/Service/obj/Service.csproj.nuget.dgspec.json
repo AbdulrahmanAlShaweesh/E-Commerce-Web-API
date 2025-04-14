@@ -1,0 +1,279 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Core\\Service\\Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Core\\DomainLayer\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Core\\DomainLayer\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Core\\DomainLayer\\Domain.csproj",
+        "packagesPath": "C:\\Users\\alshwishabdulrahman\\.nuget\\packages\\",
+        "outputPath": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Core\\DomainLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alshwishabdulrahman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Core\\ServiceAbstraction\\ServiceAbstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Core\\ServiceAbstraction\\ServiceAbstraction.csproj",
+        "projectName": "ServiceAbstraction",
+        "projectPath": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Core\\ServiceAbstraction\\ServiceAbstraction.csproj",
+        "packagesPath": "C:\\Users\\alshwishabdulrahman\\.nuget\\packages\\",
+        "outputPath": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Core\\ServiceAbstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alshwishabdulrahman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Shared\\Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Core\\Service\\Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Core\\Service\\Service.csproj",
+        "projectName": "Service",
+        "projectPath": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Core\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\alshwishabdulrahman\\.nuget\\packages\\",
+        "outputPath": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Core\\Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alshwishabdulrahman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Core\\DomainLayer\\Domain.csproj": {
+                "projectPath": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Core\\DomainLayer\\Domain.csproj"
+              },
+              "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Core\\ServiceAbstraction\\ServiceAbstraction.csproj": {
+                "projectPath": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Core\\ServiceAbstraction\\ServiceAbstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Shared\\Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Shared\\Shared.csproj",
+        "projectName": "Shared",
+        "projectPath": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\alshwishabdulrahman\\.nuget\\packages\\",
+        "outputPath": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alshwishabdulrahman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

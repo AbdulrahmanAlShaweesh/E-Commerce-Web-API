@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\E-Commerce.Web\\",
+  "WorkspaceRootPath": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4501481-D167-4E82-BC8E-51F3DA777C9F}|E-Commerce.Web\\E-Commerce.Web.csproj|c:\\mac\\home\\documents\\fullstock\\back-end-asp.net-\\mvc\\e-commerce.web\\e-commerce.web\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4501481-D167-4E82-BC8E-51F3DA777C9F}|E-Commerce.Web\\E-Commerce.Web.csproj|solutionrelative:e-commerce.web\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C2C5840-923B-41A0-BB25-9CAFB384E31F}|Core\\DomainLayer\\Domain.csproj|c:\\mac\\home\\documents\\fullstock\\backend\\webapiprojects\\e-commerce.web\\core\\domainlayer\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2C5840-923B-41A0-BB25-9CAFB384E31F}|Core\\DomainLayer\\Domain.csproj|solutionrelative:core\\domainlayer\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4501481-D167-4E82-BC8E-51F3DA777C9F}|E-Commerce.Web\\E-Commerce.Web.csproj|c:\\mac\\home\\documents\\fullstock\\back-end-asp.net-\\mvc\\e-commerce.web\\e-commerce.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4501481-D167-4E82-BC8E-51F3DA777C9F}|E-Commerce.Web\\E-Commerce.Web.csproj|solutionrelative:e-commerce.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C2C5840-923B-41A0-BB25-9CAFB384E31F}|Core\\DomainLayer\\Domain.csproj|c:\\mac\\home\\documents\\fullstock\\backend\\webapiprojects\\e-commerce.web\\core\\domainlayer\\models\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2C5840-923B-41A0-BB25-9CAFB384E31F}|Core\\DomainLayer\\Domain.csproj|solutionrelative:core\\domainlayer\\models\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\E-Commerce.Web\\E-Commerce.Web\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "E-Commerce.Web\\WeatherForecast.cs",
-              "ToolTip": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\E-Commerce.Web\\E-Commerce.Web\\WeatherForecast.cs",
-              "RelativeToolTip": "E-Commerce.Web\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ProductBrand.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Core\\DomainLayer\\Models\\ProductBrand.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\ProductBrand.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Core\\DomainLayer\\Models\\ProductBrand.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\ProductBrand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T06:26:12.731Z",
+              "WhenOpened": "2025-04-14T14:17:48.176Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\E-Commerce.Web\\E-Commerce.Web\\Program.cs",
-              "RelativeDocumentMoniker": "E-Commerce.Web\\Program.cs",
-              "ToolTip": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\E-Commerce.Web\\E-Commerce.Web\\Program.cs",
-              "RelativeToolTip": "E-Commerce.Web\\Program.cs",
-              "ViewState": "AgIAABEAAADAZWZmZiYowCAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Core\\DomainLayer\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\Product.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Core\\DomainLayer\\Models\\Product.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\Product.cs",
+              "ViewState": "AgIAAAkAAABgZmZmZsY6wBAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T06:21:43.545Z",
+              "WhenOpened": "2025-04-14T14:15:40.417Z",
               "EditorCaption": ""
             }
           ]

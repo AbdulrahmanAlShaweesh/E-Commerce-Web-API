@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1r9TxI9qpMg=",
+  "dgSpecHash": "Vc1j/yx9Bk0=",
   "success": true,
-  "projectFilePath": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\E-Commerce.Web\\E-Commerce.Web\\E-Commerce.Web.csproj",
+  "projectFilePath": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\E-Commerce.Web\\E-Commerce.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alshwishabdulrahman\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\alshwishabdulrahman\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",

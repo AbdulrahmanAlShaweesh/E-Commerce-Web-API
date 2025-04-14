@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "87zqD7ASqGNeawt19+nFtAXG2L2tIKyB3xidIS1vdiM=",
+  "Source": "E-Commerce.Web",
+  "BasePath": "_content/E-Commerce.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
