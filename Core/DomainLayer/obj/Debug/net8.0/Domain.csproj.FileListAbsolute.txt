@@ -1,0 +1,12 @@
+C:\Mac\Home\Documents\FullStock\BackEnd\WebAPIProjects\E-Commerce.Web\Core\DomainLayer\bin\Debug\net8.0\Domain.deps.json
+C:\Mac\Home\Documents\FullStock\BackEnd\WebAPIProjects\E-Commerce.Web\Core\DomainLayer\bin\Debug\net8.0\Domain.dll
+C:\Mac\Home\Documents\FullStock\BackEnd\WebAPIProjects\E-Commerce.Web\Core\DomainLayer\bin\Debug\net8.0\Domain.pdb
+C:\Mac\Home\Documents\FullStock\BackEnd\WebAPIProjects\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Documents\FullStock\BackEnd\WebAPIProjects\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Mac\Home\Documents\FullStock\BackEnd\WebAPIProjects\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Mac\Home\Documents\FullStock\BackEnd\WebAPIProjects\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\FullStock\BackEnd\WebAPIProjects\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Mac\Home\Documents\FullStock\BackEnd\WebAPIProjects\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\Domain.dll
+C:\Mac\Home\Documents\FullStock\BackEnd\WebAPIProjects\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\refint\Domain.dll
+C:\Mac\Home\Documents\FullStock\BackEnd\WebAPIProjects\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\Domain.pdb
+C:\Mac\Home\Documents\FullStock\BackEnd\WebAPIProjects\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\ref\Domain.dll

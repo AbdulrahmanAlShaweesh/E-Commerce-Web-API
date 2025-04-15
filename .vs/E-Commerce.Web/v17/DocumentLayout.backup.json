@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4501481-D167-4E82-BC8E-51F3DA777C9F}|E-Commerce.Web\\E-Commerce.Web.csproj|c:\\mac\\home\\documents\\fullstock\\backend\\webapiprojects\\e-commerce.web\\e-commerce.web\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4501481-D167-4E82-BC8E-51F3DA777C9F}|E-Commerce.Web\\E-Commerce.Web.csproj|solutionrelative:e-commerce.web\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4786C43B-8D32-4689-AC5A-52F598E0B069}|Infrastructure\\Persistence\\Persistence.csproj|c:\\mac\\home\\documents\\fullstock\\backend\\webapiprojects\\e-commerce.web\\infrastructure\\persistence\\dataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4786C43B-8D32-4689-AC5A-52F598E0B069}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\dataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4501481-D167-4E82-BC8E-51F3DA777C9F}|E-Commerce.Web\\E-Commerce.Web.csproj|c:\\mac\\home\\documents\\fullstock\\backend\\webapiprojects\\e-commerce.web\\e-commerce.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4501481-D167-4E82-BC8E-51F3DA777C9F}|E-Commerce.Web\\E-Commerce.Web.csproj|solutionrelative:e-commerce.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\E-Commerce.Web\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "E-Commerce.Web\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\E-Commerce.Web\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "E-Commerce.Web\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "DataSeeding.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Infrastructure\\Persistence\\DataSeeding.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\DataSeeding.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Infrastructure\\Persistence\\DataSeeding.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\DataSeeding.cs",
+              "ViewState": "AgIAAAYAAAAgzczMzIwjwDYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T10:53:47.902Z",
+              "WhenOpened": "2025-04-15T12:40:00.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\E-Commerce.Web\\Program.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Web\\Program.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\E-Commerce.Web\\Program.cs",
+              "RelativeToolTip": "E-Commerce.Web\\Program.cs",
+              "ViewState": "AgIAABIAAAAAnJmZmVkhwCUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:32:29.781Z",
               "EditorCaption": ""
             }
           ]

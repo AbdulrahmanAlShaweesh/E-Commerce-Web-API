@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Domain.Models
 {
-    class ProductBrand : BaseEntity<int>
+   public class ProductBrand : BaseEntity<int>
     {
         public string Name { get; set; } = null!;
      }

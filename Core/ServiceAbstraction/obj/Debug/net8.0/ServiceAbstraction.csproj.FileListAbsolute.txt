@@ -1,0 +1,16 @@
+C:\Mac\Home\Documents\FullStock\BackEnd\WebAPIProjects\E-Commerce.Web\Core\ServiceAbstraction\bin\Debug\net8.0\ServiceAbstraction.deps.json
+C:\Mac\Home\Documents\FullStock\BackEnd\WebAPIProjects\E-Commerce.Web\Core\ServiceAbstraction\bin\Debug\net8.0\ServiceAbstraction.dll
+C:\Mac\Home\Documents\FullStock\BackEnd\WebAPIProjects\E-Commerce.Web\Core\ServiceAbstraction\bin\Debug\net8.0\ServiceAbstraction.pdb
+C:\Mac\Home\Documents\FullStock\BackEnd\WebAPIProjects\E-Commerce.Web\Core\ServiceAbstraction\bin\Debug\net8.0\Shared.dll
+C:\Mac\Home\Documents\FullStock\BackEnd\WebAPIProjects\E-Commerce.Web\Core\ServiceAbstraction\bin\Debug\net8.0\Shared.pdb
+C:\Mac\Home\Documents\FullStock\BackEnd\WebAPIProjects\E-Commerce.Web\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\FullStock\BackEnd\WebAPIProjects\E-Commerce.Web\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Documents\FullStock\BackEnd\WebAPIProjects\E-Commerce.Web\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.AssemblyInfoInputs.cache
+C:\Mac\Home\Documents\FullStock\BackEnd\WebAPIProjects\E-Commerce.Web\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.AssemblyInfo.cs
+C:\Mac\Home\Documents\FullStock\BackEnd\WebAPIProjects\E-Commerce.Web\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\FullStock\BackEnd\WebAPIProjects\E-Commerce.Web\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.sourcelink.json
+C:\Mac\Home\Documents\FullStock\BackEnd\WebAPIProjects\E-Commerce.Web\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceA.44E702FF.Up2Date
+C:\Mac\Home\Documents\FullStock\BackEnd\WebAPIProjects\E-Commerce.Web\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.dll
+C:\Mac\Home\Documents\FullStock\BackEnd\WebAPIProjects\E-Commerce.Web\Core\ServiceAbstraction\obj\Debug\net8.0\refint\ServiceAbstraction.dll
+C:\Mac\Home\Documents\FullStock\BackEnd\WebAPIProjects\E-Commerce.Web\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.pdb
+C:\Mac\Home\Documents\FullStock\BackEnd\WebAPIProjects\E-Commerce.Web\Core\ServiceAbstraction\obj\Debug\net8.0\ref\ServiceAbstraction.dll
