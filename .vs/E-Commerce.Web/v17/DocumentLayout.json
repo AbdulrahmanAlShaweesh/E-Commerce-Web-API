@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4786C43B-8D32-4689-AC5A-52F598E0B069}|Infrastructure\\Persistence\\Persistence.csproj|c:\\mac\\home\\documents\\fullstock\\backend\\webapiprojects\\e-commerce.web\\infrastructure\\persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4786C43B-8D32-4689-AC5A-52F598E0B069}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2C5840-923B-41A0-BB25-9CAFB384E31F}|Core\\DomainLayer\\Domain.csproj|c:\\mac\\home\\documents\\fullstock\\backend\\webapiprojects\\e-commerce.web\\core\\domainlayer\\contracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2C5840-923B-41A0-BB25-9CAFB384E31F}|Core\\DomainLayer\\Domain.csproj|solutionrelative:core\\domainlayer\\contracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2C5840-923B-41A0-BB25-9CAFB384E31F}|Core\\DomainLayer\\Domain.csproj|c:\\mac\\home\\documents\\fullstock\\backend\\webapiprojects\\e-commerce.web\\core\\domainlayer\\contracts\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2C5840-923B-41A0-BB25-9CAFB384E31F}|Core\\DomainLayer\\Domain.csproj|solutionrelative:core\\domainlayer\\contracts\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Core\\DomainLayer\\Contracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Contracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Core\\DomainLayer\\Contracts\\IGenericRepository.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Contracts\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:13:50.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Infrastructure\\Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Infrastructure\\Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAA4AAAAgmZmZmVkuwBgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:43:26.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Core\\DomainLayer\\Contracts\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Contracts\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\WebAPIProjects\\E-Commerce.Web\\Core\\DomainLayer\\Contracts\\IUnitOfWork.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Contracts\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAADkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:32:41.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
